@@ -1,0 +1,1925 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\chart.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\template.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\style.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\chart.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\template.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\Pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\css\\Pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\css\\ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\plugins.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\fonts\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\fonts\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\about\\icon\\1.png",
+      "PackagePath": "staticwebassets\\images\\about\\icon\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\about\\icon\\2.png",
+      "PackagePath": "staticwebassets\\images\\about\\icon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\about\\team\\1-1-270x270.png",
+      "PackagePath": "staticwebassets\\images\\about\\team\\1-1-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\about\\team\\1-2-270x270.png",
+      "PackagePath": "staticwebassets\\images\\about\\team\\1-2-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\about\\team\\1-3-270x270.png",
+      "PackagePath": "staticwebassets\\images\\about\\team\\1-3-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\about\\team\\1-4-270x270.png",
+      "PackagePath": "staticwebassets\\images\\about\\team\\1-4-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\1-1-770x300.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1-1-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\1-2-370x300.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1-2-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\1-3-370x300.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1-3-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\1-4-770x300.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1-4-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\2-1-570x500.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2-1-570x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\2-2-570x235.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2-2-570x235.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\2-3-570x235.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2-3-570x235.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\3-1-1208x542.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\3-1-1208x542.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\4-1-1170x400.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\4-1-1170x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\avatar\\1-1-120x120.png",
+      "PackagePath": "staticwebassets\\images\\blog\\avatar\\1-1-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\avatar\\1-2-120x120.png",
+      "PackagePath": "staticwebassets\\images\\blog\\avatar\\1-2-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\avatar\\1-3-120x120.png",
+      "PackagePath": "staticwebassets\\images\\blog\\avatar\\1-3-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\blockquote\\quotation.png",
+      "PackagePath": "staticwebassets\\images\\blog\\blockquote\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\large-size\\1-1-768x546.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\large-size\\1-1-768x546.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\1-1-310x220.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\1-1-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\1-2-310x220.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\1-2-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\1-3-310x220.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\1-3-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\2-1-370x270.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\2-1-370x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\2-2-370x270.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\2-2-370x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\small-size\\1-1-70x70.png",
+      "PackagePath": "staticwebassets\\images\\blog\\small-size\\1-1-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\small-size\\1-2-70x70.png",
+      "PackagePath": "staticwebassets\\images\\blog\\small-size\\1-2-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\small-size\\1-3-70x70.png",
+      "PackagePath": "staticwebassets\\images\\blog\\small-size\\1-3-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\brand\\1-1.png",
+      "PackagePath": "staticwebassets\\images\\brand\\1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\brand\\1-2.png",
+      "PackagePath": "staticwebassets\\images\\brand\\1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\brand\\1-3.png",
+      "PackagePath": "staticwebassets\\images\\brand\\1-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\brand\\1-4.png",
+      "PackagePath": "staticwebassets\\images\\brand\\1-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\brand\\1-5.png",
+      "PackagePath": "staticwebassets\\images\\brand\\1-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\brand\\bg\\1-1170x300.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\bg\\1-1170x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\breadcrumb\\bg\\1-1-1919x388.jpg",
+      "PackagePath": "staticwebassets\\images\\breadcrumb\\bg\\1-1-1919x388.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\contact\\1-1-370x500.jpg",
+      "PackagePath": "staticwebassets\\images\\contact\\1-1-370x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\00456cff-c399-472b-8eae-9cbc3960e36d___gradient-krug-raduzhnyi-neonovyi-krug-neon-neonovyi-krug-vyv.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\00456cff-c399-472b-8eae-9cbc3960e36d___gradient-krug-raduzhnyi-neonovyi-krug-neon-neonovyi-krug-vyv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\02261926-01ea-4b25-bef1-1f8b99f8e94b___mercedes-mercedes-benz-glc-white.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\02261926-01ea-4b25-bef1-1f8b99f8e94b___mercedes-mercedes-benz-glc-white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\0290cb28-9acb-40de-9ac9-79cccce32f05___porsche-991-gt-blue-vag-autumn.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\0290cb28-9acb-40de-9ac9-79cccce32f05___porsche-991-gt-blue-vag-autumn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\037e1832-0e4a-45db-ab3f-a36d82495bf3___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\037e1832-0e4a-45db-ab3f-a36d82495bf3___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\041ae8b1-9230-4926-9660-aa614a0813a6 __ kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\041ae8b1-9230-4926-9660-aa614a0813a6 __ kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\08d8435d-8dbf-4e80-a028-fcc99b8abae9 __ jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\08d8435d-8dbf-4e80-a028-fcc99b8abae9 __ jeep-wrangler-unlimited-4-door-3-6l-2015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\08e7146d-7e48-47fb-9523-824485ddacf4___jeep-grand-cherokee-dzhip-2347.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\08e7146d-7e48-47fb-9523-824485ddacf4___jeep-grand-cherokee-dzhip-2347.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\0918ff5f-5337-496d-9263-df81b8f032e1___jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\0918ff5f-5337-496d-9263-df81b8f032e1___jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\0adc95b8-ea75-445d-b825-2a94c8247f83___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\0adc95b8-ea75-445d-b825-2a94c8247f83___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\0d18b760-68df-4c3c-8a64-47b910b11661___jeep-grand-cherokee-dzhip-2347.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\0d18b760-68df-4c3c-8a64-47b910b11661___jeep-grand-cherokee-dzhip-2347.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\104b46a4-0dda-47b7-bd9d-09c87dda2532 __ kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\104b46a4-0dda-47b7-bd9d-09c87dda2532 __ kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\10761621-0ba4-492c-a17d-dbc932fa973f___shveitsariia-priroda-peizazh-ograzhdenie-gory-dom-lesa.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\10761621-0ba4-492c-a17d-dbc932fa973f___shveitsariia-priroda-peizazh-ograzhdenie-gory-dom-lesa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\1330a57d-cae3-4cc2-b6dd-1f5e899b278c___cherep-skelet-skull-indeets-peria-indian.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\1330a57d-cae3-4cc2-b6dd-1f5e899b278c___cherep-skelet-skull-indeets-peria-indian.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\15e138e6-87e3-4718-999b-abb76ffd882c __ derevia-krona-zelen.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\15e138e6-87e3-4718-999b-abb76ffd882c __ derevia-krona-zelen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\16372ced-0e85-4373-a428-30c9601b260d___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\16372ced-0e85-4373-a428-30c9601b260d___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\1af73a58-a3ab-45c6-936d-89ef478dfc7c __ kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\1af73a58-a3ab-45c6-936d-89ef478dfc7c __ kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\20c280ee-b802-4bc0-bf67-f9841e815a20___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\20c280ee-b802-4bc0-bf67-f9841e815a20___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\21ef4026-7ad6-49dc-8714-bebaaa49efc5___sidit-rabotaet-slushaet-muzyku.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\21ef4026-7ad6-49dc-8714-bebaaa49efc5___sidit-rabotaet-slushaet-muzyku.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\2246bc08-d4d8-495f-b74a-dc774e8ae9d9___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\2246bc08-d4d8-495f-b74a-dc774e8ae9d9___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\28b8b15b-86ce-4b6b-b0c5-6439ef096135___morning-alpenglow-lofoten-norway.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\28b8b15b-86ce-4b6b-b0c5-6439ef096135___morning-alpenglow-lofoten-norway.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\290e0adb-cc9e-4162-b93c-8ff2cfc52a1d___jeep-grand-cherokee-dzhip-2347.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\290e0adb-cc9e-4162-b93c-8ff2cfc52a1d___jeep-grand-cherokee-dzhip-2347.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\29275c47-b846-475b-86cc-a41949de74cf __ kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\29275c47-b846-475b-86cc-a41949de74cf __ kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\295328de-e995-4c51-b4e1-aeb645ad4a57___derevia-krona-zelen.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\295328de-e995-4c51-b4e1-aeb645ad4a57___derevia-krona-zelen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\2cf71a04-b827-4931-bd0d-146a0e81323e___shveitsariia-priroda-peizazh-ograzhdenie-gory-dom-lesa.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\2cf71a04-b827-4931-bd0d-146a0e81323e___shveitsariia-priroda-peizazh-ograzhdenie-gory-dom-lesa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\2d1e504e-6a4a-4934-a940-8316131f6fee___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\2d1e504e-6a4a-4934-a940-8316131f6fee___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\2ef54ff2-172c-4b1b-8f6a-089bf33c69ce___minimalizm-chernyi-fon-sleng-bukvy-konoplia-list-simvol-mini.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\2ef54ff2-172c-4b1b-8f6a-089bf33c69ce___minimalizm-chernyi-fon-sleng-bukvy-konoplia-list-simvol-mini.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\3098a694-ea0f-417e-8002-8f9a6e1bc9f5___jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\3098a694-ea0f-417e-8002-8f9a6e1bc9f5___jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\331155ac-15db-43f9-872f-f11adec5736a __ kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\331155ac-15db-43f9-872f-f11adec5736a __ kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\367f3d01-ff9e-486a-b77c-651d02e33783___mercedes-mercedes-benz-glc-white.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\367f3d01-ff9e-486a-b77c-651d02e33783___mercedes-mercedes-benz-glc-white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\36b3a59e-0824-45b4-8055-98701200f334 __ harley-davidson-hd-sportster-harley-davidson-harleay-davidso.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\36b3a59e-0824-45b4-8055-98701200f334 __ harley-davidson-hd-sportster-harley-davidson-harleay-davidso.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\3ca10ca0-e04c-4848-b37c-34de18286ef3__jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\3ca10ca0-e04c-4848-b37c-34de18286ef3__jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\3f861990-c604-4d26-8e3e-82cea9a94183___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\3f861990-c604-4d26-8e3e-82cea9a94183___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\3fc9b248-db4e-4419-89c8-b646ad474285___greg-martin-ozero-gory.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\3fc9b248-db4e-4419-89c8-b646ad474285___greg-martin-ozero-gory.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\44bf5e1e-d996-465e-9635-3bb0f7e5513a___porsche-911-gt3-porshe-fon-1.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\44bf5e1e-d996-465e-9635-3bb0f7e5513a___porsche-911-gt3-porshe-fon-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\48dec222-9535-4647-8c9c-aa8cfb272f7c___mercedes-mercedes-benz-glc-white.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\48dec222-9535-4647-8c9c-aa8cfb272f7c___mercedes-mercedes-benz-glc-white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\4a3480f6-018c-4c21-8315-c76bf52e29af __ more-pliazh-bungalo.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\4a3480f6-018c-4c21-8315-c76bf52e29af __ more-pliazh-bungalo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\4a66e890-bf48-4a91-8f37-54bc503809a5 __ kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\4a66e890-bf48-4a91-8f37-54bc503809a5 __ kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\4af18a7c-3425-4f14-9f5f-a17cc0fad601___tesla-tesla-model-s-tesla-usa-ssha.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\4af18a7c-3425-4f14-9f5f-a17cc0fad601___tesla-tesla-model-s-tesla-usa-ssha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\4c521992-fffd-4db8-89dc-dc9a8f8dc300___noch-nebo-zvezdy-pole-holm.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\4c521992-fffd-4db8-89dc-dc9a8f8dc300___noch-nebo-zvezdy-pole-holm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\4c98eb58-a901-40c9-bb93-61228d214f9e___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\4c98eb58-a901-40c9-bb93-61228d214f9e___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\4e66e6c0-081b-4011-8804-af8236824010___gradient-krug-raduzhnyi-neonovyi-krug-neon-neonovyi-krug-vyv.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\4e66e6c0-081b-4011-8804-af8236824010___gradient-krug-raduzhnyi-neonovyi-krug-neon-neonovyi-krug-vyv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\4e97c3f0-c970-482e-bc42-28d3b3493e6b___derevia-krona-zelen.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\4e97c3f0-c970-482e-bc42-28d3b3493e6b___derevia-krona-zelen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\4f2c82f0-b81b-4e22-8f45-52cfe764aa80___bike-yamaha-sport-garage-mototsikl-garazh.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\4f2c82f0-b81b-4e22-8f45-52cfe764aa80___bike-yamaha-sport-garage-mototsikl-garazh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\50d27cf7-f33e-4a27-9d1e-97fc37e8193c___dzhentlmen-muzhskoi-obraz-muzhchina-gentleman-blagorodnyi-te.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\50d27cf7-f33e-4a27-9d1e-97fc37e8193c___dzhentlmen-muzhskoi-obraz-muzhchina-gentleman-blagorodnyi-te.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\58f043e2-1482-4ee7-a077-077fec2d21b2___shveitsariia-priroda-peizazh-ograzhdenie-gory-dom-lesa.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\58f043e2-1482-4ee7-a077-077fec2d21b2___shveitsariia-priroda-peizazh-ograzhdenie-gory-dom-lesa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\59a3424c-5c0a-40fa-a91e-debf6c0c13f4___porsche-991-gt-blue-vag-autumn.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\59a3424c-5c0a-40fa-a91e-debf6c0c13f4___porsche-991-gt-blue-vag-autumn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\5e250a0a-99db-414d-9345-381699f3f267___mercedes-mercedes-benz-glc-white.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\5e250a0a-99db-414d-9345-381699f3f267___mercedes-mercedes-benz-glc-white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\5e64ece2-7312-4038-a01c-201e90b2bfa6___gradient-krug-raduzhnyi-neonovyi-krug-neon-neonovyi-krug-vyv.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\5e64ece2-7312-4038-a01c-201e90b2bfa6___gradient-krug-raduzhnyi-neonovyi-krug-neon-neonovyi-krug-vyv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\60a5c5f5-067f-4074-a9fa-73e145554655___porsche-911-gt3-porshe-fon-1.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\60a5c5f5-067f-4074-a9fa-73e145554655___porsche-911-gt3-porshe-fon-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\653a198d-44da-4ed4-bf5f-655cdd57cd74___concept-ducati-diavel-1260-s-materico-ducati-mototsikl-baik.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\653a198d-44da-4ed4-bf5f-655cdd57cd74___concept-ducati-diavel-1260-s-materico-ducati-mototsikl-baik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\66f1e1ab-f1f6-4ffa-ae99-abd1eb4d92c7___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\66f1e1ab-f1f6-4ffa-ae99-abd1eb4d92c7___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\672ca3be-66ab-43ac-aeb9-4f84ac932b2b___cherep-skelet-skull-indeets-peria-indian.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\672ca3be-66ab-43ac-aeb9-4f84ac932b2b___cherep-skelet-skull-indeets-peria-indian.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\67e68609-35a4-495c-94c1-6f1ae916cfe6___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\67e68609-35a4-495c-94c1-6f1ae916cfe6___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\6e06631f-4984-45c9-a2f7-9b59ea7c4c56___porsche-991-gt-blue-vag-autumn.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\6e06631f-4984-45c9-a2f7-9b59ea7c4c56___porsche-991-gt-blue-vag-autumn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\710ee238-b247-4274-98e8-e16e549c9ac5___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\710ee238-b247-4274-98e8-e16e549c9ac5___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\71f4e7c0-33dd-47fb-b965-24a5d95a463e___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\71f4e7c0-33dd-47fb-b965-24a5d95a463e___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\751f6c52-556b-4a81-87a0-71649fa399a7___porsche-991-gt-blue-vag-autumn.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\751f6c52-556b-4a81-87a0-71649fa399a7___porsche-991-gt-blue-vag-autumn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\78a09778-25cd-4a3e-bc88-621eea77d22a___morning-alpenglow-lofoten-norway.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\78a09778-25cd-4a3e-bc88-621eea77d22a___morning-alpenglow-lofoten-norway.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\78af1d18-61fa-472b-a43e-f9c8f7c87ea5 __ shveitsariia-priroda-peizazh-ograzhdenie-gory-dom-lesa.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\78af1d18-61fa-472b-a43e-f9c8f7c87ea5 __ shveitsariia-priroda-peizazh-ograzhdenie-gory-dom-lesa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\7d711d91-e228-4fe5-864a-1427f6aa538c __ porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\7d711d91-e228-4fe5-864a-1427f6aa538c __ porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\7e2160a8-1f30-482a-8127-4e1fe296125b __ bike-yamaha-sport-garage-mototsikl-garazh.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\7e2160a8-1f30-482a-8127-4e1fe296125b __ bike-yamaha-sport-garage-mototsikl-garazh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\7e8fef47-a6c1-4b26-88f6-cfccfd776473___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\7e8fef47-a6c1-4b26-88f6-cfccfd776473___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\8238a125-d814-4998-aed6-bca5cea01316___144368-art-logo-tekst-minimalizm-graficeskij_dizajn-1920x1080.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\8238a125-d814-4998-aed6-bca5cea01316___144368-art-logo-tekst-minimalizm-graficeskij_dizajn-1920x1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\871d6c72-223c-4718-ba77-698cb27c0e26___tesla-tesla-model-s-tesla-usa-ssha.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\871d6c72-223c-4718-ba77-698cb27c0e26___tesla-tesla-model-s-tesla-usa-ssha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\8ab10586-4d0f-4770-ac4e-3c6143466288___shveitsariia-priroda-peizazh-ograzhdenie-gory-dom-lesa.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\8ab10586-4d0f-4770-ac4e-3c6143466288___shveitsariia-priroda-peizazh-ograzhdenie-gory-dom-lesa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\8b03bca8-0578-48c5-9744-8f2dbc6b9634___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\8b03bca8-0578-48c5-9744-8f2dbc6b9634___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\8d656f1f-3cae-4d69-b789-b6e18276a87b___porsche-911-gt3-porshe-fon-1.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\8d656f1f-3cae-4d69-b789-b6e18276a87b___porsche-911-gt3-porshe-fon-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\8dd8651a-6012-4019-b493-08c0cff50a03___kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\8dd8651a-6012-4019-b493-08c0cff50a03___kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\8fc17449-f8e9-41d2-98b3-88837f05103c__donkey-kong-kontroller-dzhoistik-bochki-skaly-igrovaia-prist.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\8fc17449-f8e9-41d2-98b3-88837f05103c__donkey-kong-kontroller-dzhoistik-bochki-skaly-igrovaia-prist.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\9415a0dc-00e1-40e7-ba0f-af835098bf4b __ more-pliazh-bungalo.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\9415a0dc-00e1-40e7-ba0f-af835098bf4b __ more-pliazh-bungalo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\94e6ba47-6eea-4d27-a2ff-2f79bbccb2d4 __ jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\94e6ba47-6eea-4d27-a2ff-2f79bbccb2d4 __ jeep-wrangler-unlimited-4-door-3-6l-2015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\951b9253-7a2d-4662-bd0e-2ac27579ba67___jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\951b9253-7a2d-4662-bd0e-2ac27579ba67___jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\961c17ad-1fe2-4d2e-a18b-2c548791072c___jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\961c17ad-1fe2-4d2e-a18b-2c548791072c___jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\967da5c1-4dec-4682-bfe8-416dfdeae687___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\967da5c1-4dec-4682-bfe8-416dfdeae687___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\98800223-ecc2-402c-99d9-4bf271fb7472___mercedes-mercedes-benz-glc-white.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\98800223-ecc2-402c-99d9-4bf271fb7472___mercedes-mercedes-benz-glc-white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\99c51dc8-b5d4-4743-8160-f700ecbe4f79___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\99c51dc8-b5d4-4743-8160-f700ecbe4f79___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\9ac5dbc0-63b9-4f40-a72f-4c37b08cbce4___jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\9ac5dbc0-63b9-4f40-a72f-4c37b08cbce4___jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\9b651f1f-a807-4bdd-9867-fcfe6d6b0714___kawasaki-h2r-bike-supersport.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\9b651f1f-a807-4bdd-9867-fcfe6d6b0714___kawasaki-h2r-bike-supersport.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\9f6338a4-47de-4713-804c-2ffa6ac53d4e___kawasaki-h2r-bike-supersport.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\9f6338a4-47de-4713-804c-2ffa6ac53d4e___kawasaki-h2r-bike-supersport.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\a0486cc2-0bf0-4e99-8919-9154b7899a96 __ kawasaki-h2r-bike-supersport.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\a0486cc2-0bf0-4e99-8919-9154b7899a96 __ kawasaki-h2r-bike-supersport.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\a2413e9e-e5f4-4d6e-b338-e32b7b441e4c___152966-minimalizm-kod-esteticheskaya_oshibka-aminoplast-anime-1920x1080.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\a2413e9e-e5f4-4d6e-b338-e32b7b441e4c___152966-minimalizm-kod-esteticheskaya_oshibka-aminoplast-anime-1920x1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\a3c09e0b-4ccd-4fbd-89be-a5f668891a6b___bike-custom-triumph-daytona-675.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\a3c09e0b-4ccd-4fbd-89be-a5f668891a6b___bike-custom-triumph-daytona-675.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\a4464ad0-2dd3-4828-9ef6-80769915c0b4___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\a4464ad0-2dd3-4828-9ef6-80769915c0b4___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\a4810e0a-c520-4074-8dcd-50abf767f62d___jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\a4810e0a-c520-4074-8dcd-50abf767f62d___jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\a71aba5d-6cd3-446a-b40b-2c0bd0021a14___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\a71aba5d-6cd3-446a-b40b-2c0bd0021a14___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\a9f22d90-3752-4ce3-8ff4-b79c9a7d29cf___morning-alpenglow-lofoten-norway.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\a9f22d90-3752-4ce3-8ff4-b79c9a7d29cf___morning-alpenglow-lofoten-norway.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\ae825b9a-c3fe-4b48-b71c-3def5b2ad5b9___144368-art-logo-tekst-minimalizm-graficeskij_dizajn-1920x1080.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\ae825b9a-c3fe-4b48-b71c-3def5b2ad5b9___144368-art-logo-tekst-minimalizm-graficeskij_dizajn-1920x1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\b3bff0ad-aa89-49c9-80c4-5201bfd99c41___mercedes-mercedes-benz-glc-white.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\b3bff0ad-aa89-49c9-80c4-5201bfd99c41___mercedes-mercedes-benz-glc-white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\b593ba27-81ad-48a8-a221-2d29bb0db988___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\b593ba27-81ad-48a8-a221-2d29bb0db988___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\b80484b7-9026-4d7a-9797-4de52821880c___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\b80484b7-9026-4d7a-9797-4de52821880c___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\bae53a3a-a0f4-4833-815a-db3caa3fb5b5 __ kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\bae53a3a-a0f4-4833-815a-db3caa3fb5b5 __ kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\bb757512-8900-437c-b412-8af561af2499___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\bb757512-8900-437c-b412-8af561af2499___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\bbea8e0c-8979-4d02-828b-8877be06fd52__porsche-911-gt3-porshe-fon-1.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\bbea8e0c-8979-4d02-828b-8877be06fd52__porsche-911-gt3-porshe-fon-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\bdcd1381-8298-4668-9eeb-c7e9b8f86d97___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\bdcd1381-8298-4668-9eeb-c7e9b8f86d97___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\c61aff3c-75fd-4405-9964-0c36ad4852d8___cherep-skelet-skull-indeets-peria-indian.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\c61aff3c-75fd-4405-9964-0c36ad4852d8___cherep-skelet-skull-indeets-peria-indian.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\c6e25d13-6fd4-40ff-99fc-fa76aff76ea8___mercedes-mercedes-benz-glc-white.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\c6e25d13-6fd4-40ff-99fc-fa76aff76ea8___mercedes-mercedes-benz-glc-white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\c8d3317b-b242-433e-a9fa-8ac8139fc691___porsche-991-gt-blue-vag-autumn.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\c8d3317b-b242-433e-a9fa-8ac8139fc691___porsche-991-gt-blue-vag-autumn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\c97ef677-bca0-4137-bc48-e416359f6ae0___cherep-skelet-skull-indeets-peria-indian.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\c97ef677-bca0-4137-bc48-e416359f6ae0___cherep-skelet-skull-indeets-peria-indian.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\ca20758c-c1f2-4f2a-87c4-061c14820e44 __ morning-alpenglow-lofoten-norway.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\ca20758c-c1f2-4f2a-87c4-061c14820e44 __ morning-alpenglow-lofoten-norway.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\cb32df65-98ef-494d-a29c-a5e27852c556___kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\cb32df65-98ef-494d-a29c-a5e27852c556___kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\cd65e8a7-4785-4b19-a005-be04b4214ec0___kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\cd65e8a7-4785-4b19-a005-be04b4214ec0___kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\cd745eaf-d10b-405b-b48e-fa43b3d49b9b___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\cd745eaf-d10b-405b-b48e-fa43b3d49b9b___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\dad347e4-9e30-41d3-a631-e7336fd450de___more-pliazh-bungalo.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\dad347e4-9e30-41d3-a631-e7336fd450de___more-pliazh-bungalo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\dd1eeaed-e522-4b2e-9038-568c8b9e7979___donkey-kong-kontroller-dzhoistik-bochki-skaly-igrovaia-prist.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\dd1eeaed-e522-4b2e-9038-568c8b9e7979___donkey-kong-kontroller-dzhoistik-bochki-skaly-igrovaia-prist.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\e4e8f7a8-1c9c-4818-8267-9778c3777239 __ porsche-911-gt3-porshe-fon-1.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\e4e8f7a8-1c9c-4818-8267-9778c3777239 __ porsche-911-gt3-porshe-fon-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\e7c6e436-1c61-47a5-a957-16a18f6ce274___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\e7c6e436-1c61-47a5-a957-16a18f6ce274___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\e8835095-6899-4625-9c7e-731fe11a43b6___tesla-tesla-model-s-tesla-usa-ssha.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\e8835095-6899-4625-9c7e-731fe11a43b6___tesla-tesla-model-s-tesla-usa-ssha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\e8c86443-8090-439f-a37e-68afa1f8a373___moto-baik-bike-husqvarna.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\e8c86443-8090-439f-a37e-68afa1f8a373___moto-baik-bike-husqvarna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\e8cfc592-15b2-4436-b4e3-a4eaf7867894___leto-more-okean-voda-nebo-solntse-pliazh-pesok-volny-bereg-p.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\e8cfc592-15b2-4436-b4e3-a4eaf7867894___leto-more-okean-voda-nebo-solntse-pliazh-pesok-volny-bereg-p.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\ebf46057-06b0-4fd4-bf25-eee20191b831___derevia-krona-zelen.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\ebf46057-06b0-4fd4-bf25-eee20191b831___derevia-krona-zelen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\ec17fb2a-d732-4784-92c7-b2eaa1e9a7da___bike-yamaha-sport-garage-mototsikl-garazh.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\ec17fb2a-d732-4784-92c7-b2eaa1e9a7da___bike-yamaha-sport-garage-mototsikl-garazh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\f18b5c50-51e8-4b0e-bef7-00565022bbf2___cherep-skelet-skull-indeets-peria-indian.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\f18b5c50-51e8-4b0e-bef7-00565022bbf2___cherep-skelet-skull-indeets-peria-indian.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\f2cb5e18-44e5-4b6c-88a2-de8fb5c60d6d___porsche-911-gt3-porshe-fon-1.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\f2cb5e18-44e5-4b6c-88a2-de8fb5c60d6d___porsche-911-gt3-porshe-fon-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\f7305c1b-10b2-46d2-8d1a-0b80409a5f6a___derevia-krona-zelen.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\f7305c1b-10b2-46d2-8d1a-0b80409a5f6a___derevia-krona-zelen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\f7f64724-f398-4d5c-ba4f-99021df304c4___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\f7f64724-f398-4d5c-ba4f-99021df304c4___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\f8ecfa8a-249e-409c-9127-94d0e9ea552d___apple-swift-programing.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\f8ecfa8a-249e-409c-9127-94d0e9ea552d___apple-swift-programing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\fa3a9235-7ec0-4ada-b62d-77fa8c4bdfed___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\fa3a9235-7ec0-4ada-b62d-77fa8c4bdfed___kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\fd890566-0ebd-46f1-ac99-37b75ca4c6ec___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\fd890566-0ebd-46f1-ac99-37b75ca4c6ec___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\feae4db3-dbaa-4cb6-a608-0a8288649aef___cherep-skelet-skull-indeets-peria-indian.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\feae4db3-dbaa-4cb6-a608-0a8288649aef___cherep-skelet-skull-indeets-peria-indian.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\ff4391b5-1475-4efc-ab6f-a6158794cfb7___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\ff4391b5-1475-4efc-ab6f-a6158794cfb7___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\ffbe109f-9184-43f0-b32f-b19094bf9e49___concept-ducati-diavel-1260-s-materico-ducati-mototsikl-baik.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\ffbe109f-9184-43f0-b32f-b19094bf9e49___concept-ducati-diavel-1260-s-materico-ducati-mototsikl-baik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\error-404\\404.png",
+      "PackagePath": "staticwebassets\\images\\error-404\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\error-404\\bg\\1-1920x886.png",
+      "PackagePath": "staticwebassets\\images\\error-404\\bg\\1-1920x886.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\footer\\bg\\1-1920x465.jpg",
+      "PackagePath": "staticwebassets\\images\\footer\\bg\\1-1920x465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\logo\\dark.png",
+      "PackagePath": "staticwebassets\\images\\logo\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\newsletter\\1-1920x400.jpg",
+      "PackagePath": "staticwebassets\\images\\newsletter\\1-1920x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\offcanvas\\close-white.svg",
+      "PackagePath": "staticwebassets\\images\\offcanvas\\close-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\payment\\1.png",
+      "PackagePath": "staticwebassets\\images\\payment\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-1-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\1-1-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-2-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\1-2-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-3-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\1-3-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-4-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\1-4-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-10-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-10-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-11-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-11-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-3-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-3-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-4-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-4-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-5-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-5-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-6-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-6-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-7-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-7-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-8-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-8-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-9-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-9-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\small-size\\1-1-112x124.png",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\1-1-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\small-size\\1-2-112x124.png",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\1-2-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\small-size\\1-3-112x124.png",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\1-3-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\small-size\\2-1-70x78.png",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\2-1-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\small-size\\2-2-70x78.png",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\2-2-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\small-size\\2-3-70x78.png",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\2-3-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shape\\1.png",
+      "PackagePath": "staticwebassets\\images\\shape\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shape\\2.png",
+      "PackagePath": "staticwebassets\\images\\shape\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\car.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\card.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\earphones.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\earphones.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\home.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\message.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\message.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\phone.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\plane.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\plane.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\service.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\service.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\shield.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\shield.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\sidebar\\banner\\1-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\sidebar\\banner\\1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\slider\\bg\\1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\bg\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\slider\\bg\\2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\bg\\2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\slider\\inner-img\\1-1-524x617.png",
+      "PackagePath": "staticwebassets\\images\\slider\\inner-img\\1-1-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\slider\\inner-img\\1-2-524x617.png",
+      "PackagePath": "staticwebassets\\images\\slider\\inner-img\\1-2-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\slider\\slide-img\\2-1-960x741.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-img\\2-1-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\slider\\slide-img\\2-2-960x741.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-img\\2-2-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\slider\\slide-img\\2-3-960x741.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-img\\2-3-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\testimonial\\bg\\1-1-1820x443.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\bg\\1-1-1820x443.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\testimonial\\icon\\quotation.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\icon\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\testimonial\\user\\1.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\user\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\testimonial\\user\\2.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\user\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\testimonial\\user\\3.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\user\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1--1rnu4p.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1--1rnu4p.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-120x120.webp",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-120x120.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-1820x443.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-1820x443.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-310x220.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-524x617.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-768x546.webp",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-768x546.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-770x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-10-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-10-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-11-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-11-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1170x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1170x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1920x465.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1920x465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-2-120x120.webp",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-2-120x120.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-2-310x220.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-2-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-2-370x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-2-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-2-524x617.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-2-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-2-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-2-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-2.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-270x300.webp",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-270x300.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-3-120x120.webp",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-3-120x120.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-3-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-3-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-3-310x220.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-3-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-3-370x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-3-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-3-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-3-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-3.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-4-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-4-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-4-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-4-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-4-770x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-4-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-4.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-5-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-5-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-5.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-6-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-6-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-7-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-7-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-8-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-8-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-9-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-9-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\2-1-370x270.webp",
+      "PackagePath": "staticwebassets\\images\\website-images\\2-1-370x270.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\2-1-70x78.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\2-1-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\2-2-370x270.webp",
+      "PackagePath": "staticwebassets\\images\\website-images\\2-2-370x270.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\2-2-70x78.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\2-2-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\2-3-70x78.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\2-3-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\2.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\3.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\car.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\card.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\dark.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\quotation.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\service.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\service.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\jquery.counterup.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.counterup.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.nice-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\mailchimp-ajax.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\mailchimp-ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\parallax.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\tippy.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\tippy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\vendor\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\vendor\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\vendor\\jquery-migrate-3.3.2.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-migrate-3.3.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\vendor\\jquery.waypoints.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\vendor\\modernizr-3.11.2.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.11.2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
